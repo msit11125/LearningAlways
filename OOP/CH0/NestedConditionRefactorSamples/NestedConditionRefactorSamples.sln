@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedConditionRefactorSample01", "NestedConditionRefactorSample01\NestedConditionRefactorSample01.csproj", "{5DBA19EB-045F-45D0-B3C4-76A23863EE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedConditionRefactorSample02", "NestedConditionRefactorSample02\NestedConditionRefactorSample02.csproj", "{E694137F-41C7-472F-879F-0DC14F740CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBA19EB-045F-45D0-B3C4-76A23863EE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBA19EB-045F-45D0-B3C4-76A23863EE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBA19EB-045F-45D0-B3C4-76A23863EE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBA19EB-045F-45D0-B3C4-76A23863EE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E694137F-41C7-472F-879F-0DC14F740CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E694137F-41C7-472F-879F-0DC14F740CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E694137F-41C7-472F-879F-0DC14F740CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E694137F-41C7-472F-879F-0DC14F740CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
